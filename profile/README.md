@@ -73,7 +73,7 @@ Our team combines technical precision with strategic insight:
     * Expertise: UI/UX, Graphic Design, Python, JavaScript, C/C++.
 * **Alvin Walai Sumo** - *Healthcare Director*
     * Expertise: Medical Laboratory Science, Clinical Diagnostics, Patient Care.
-* **Gadriel Borbor Gargard** - *Innovation Officer*
+* **Gadriel Borbor Gargard** - *Chief Innovation Officer*
     * Expertise: AI in Healthcare, Clinical Research, Digital Project Management.
 
 ---
@@ -82,7 +82,7 @@ Our team combines technical precision with strategic insight:
 
 Ready to start your project? Reach out to us today!
 
-* **Global Phone:** +231 880 678 388
+* **Global Phone:** +231 880 678 388 | +44 7366 125388
 * **India Contacts:** +91 62843 78979 | +91 84278 89661 | +91 76580 37742
 * **General Email:** [mail@kosmosconsult.in](mailto:mail@kosmosconsult.in)
 * **Website:** [https://kosmosconsult.in](https://kosmosconsult.in)
