@@ -1,7 +1,7 @@
 # Kosmos Consult
 > **Technology that works for You.**
 
-![Kosmos Consult Banner](https://kosmosconsult.in/static/img/logo.png)
+![Kosmos Consult Banner](https://kosmosconsult.in/wp-content/uploads/2025/10/Kosmos.png)
 
 ## 📖 About Us
 **Crafting from ash to Success!!**
